@@ -37,4 +37,18 @@
 ---
 
 
+---
+
+##  Git & GitHub Workflow Summary (June 23, 2025)
+
+### 📁 Repository Setup
+- Created a local folder `bridgelab`
+- Initialized it with `git init`
+- Created files using `touch` (like `README.md`, `notes.txt`)
+- Connected local repo to remote GitHub repo using:
+  ```bash
+  git remote add origin https://github.com/gargparth2003/bridgelab.git
+
+
+
 
